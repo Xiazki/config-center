@@ -1,0 +1,4 @@
+db.url: prod
+db.username: root
+db.pwd: proda
+
